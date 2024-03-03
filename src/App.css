@@ -1,0 +1,70 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.container {
+  max-width: 800px;
+  margin-top: 50px;
+}
+
+.note-form {
+  margin-bottom: 20px;
+}
+
+.note-list {
+  margin-top: 20px;
+}
+
+.note-item {
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.note-item:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.note-input {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.note-btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.note-btn:last-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  margin-left: 10px;
+}
+
+.list-group-item {
+  margin-top: 10px;
+}
+
+.btn-danger {
+  margin-left: 10px;
+}
+
